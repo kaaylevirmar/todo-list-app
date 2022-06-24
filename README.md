@@ -4,7 +4,8 @@ link of the ui design [UI LINK HERE](https://tailwindcss.com/docs/guides/create-
 
 ## Step 1
 
-- Clone the repository
+- Fork the repository
+- Clone the forked repository
 - Clear all files inside the src except for app.js and index.js
 - Make 2 folders inside src [views, components]
 - Move the App.js files inside views
