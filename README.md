@@ -1,6 +1,6 @@
 # Lesson 3 Make A todo list App
 
-link of the ui design [UI LINK HERE](https://tailwindcss.com/docs/guides/create-react-app)
+link of the ui design [UI LINK HERE](https://www.figma.com/file/QrAnnL37nvVaHiT5AO6Boa/To-do-list?node-id=0%3A1)
 
 ## Step 1
 
